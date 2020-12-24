@@ -10,13 +10,14 @@ b. School of Mathematics Sciences, Nankai University, Tianjin 300071, China.
 
 c. School of Mathematics Sciences, Nankai University, Tianjin 300071, China.
 
-**Abstract** In this paper we assume the insurance wealth process is driven
-by the compound poisson process. The discounting factor is modelled
-as a s geometric[^1] Brownian motion at first and then as an exponential
-function of an integrated Ornstein-Uhlenbeck process. The objective is
-to maximize the cumulated value of expected discounted dividends up to the ruin time[^2]. We give an explicit expression of the value function and the optimal strategy in the first case. For the second case, we explored[^3] some properties of value function[^4]. Since we can not find the explicit expression of the value function[^5] in the second case, we use the notion of viscosity solution and prove that the value function is the viscosity solution of the corresponding HJB equation.
+**Abstract** In this paper we assume the insurance wealth process is driven by the compound poisson process. The discounting factor is modelled as a s geometric[^1] Brownian motion at first and then as an exponential function of an integrated Ornstein-Uhlenbeck process. The objective is to maximize the cumulated value of expected discounted dividends up to the ruin time[^2]. We give an explicit expression of the value function and the optimal strategy in the first case. For the second case, we explored[^3] some properties of value function[^4]. Since we can not find the explicit expression of the value function[^5] in the second case, we use the notion of viscosity solution and prove that the value function is the viscosity solution of the corresponding HJB equation.
 
-**Keywords:** Hamilton-Jacobi-Bellman equation, Vasicek model, Geometric Brownian motion, Interest rate, Viscosity solution, Optimal dividends
+**Keywords:** Hamilton-Jacobi-Bellman equation, 
+Vasicek model, 
+Geometric Brownian motion, 
+Interest rate, 
+Viscosity solution, 
+Optimal dividends
 
 ## Introduction
 The optimal dividend problem has been discussed for a long time in the literature. In 1957 De Finetti [8] proposed that the insurance company should allow cash leakages and measure their performance during its life time instead of only focussing on ruin probability. These cash
