@@ -78,9 +78,11 @@ $$
 **Proposition 2.1** Assume there exists a function 
 $v(r, x) \in C^{2,1}(R \times [0, +\infty))$ 
 satisfies the HJB equation (2.3). For any dividend strategy {L_t}, we claim that 
+
 $$
 v(r, x) \ge E\left[\int^{τ^L}_0 e^{-r_t} dl(t)|r_0 = r, x_0 = x\right], (2.4)
 $$
+
 where $τ^L$ denotes the ruin time of insurance company with the dividend strategy $L_t$. Further, if there exists a strategy $L^{\star}_t$ such that $v(r, x) = E\left[\int^{τ^L}_0 e^{-r_t}dL^{\star}_t|r_0 = r, x_0 = x\right]$, then strategy $L^{\star}_t$ must be optimal.
 
 ### Solve V(r,x;b)
