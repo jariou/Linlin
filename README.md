@@ -87,13 +87,16 @@ where $τ^L$ denotes the ruin time of insurance company with the dividend strate
 
 ### Solve V(r,x;b)
 For a constant threshold b ≥ 0, Let Xbt denotes the surplus process with threshold strategy L b and τ b denotes the corresponding ruin time of the insurance company. We can see V (r, x; b) = E[Z τb0e−r−ms−δBs dls] = e−rE[Z τb0e−ms−δBs dls]. (2.7)
+
 Since τ b is independent of rt, we can denote F(x; b) := E[R τb0e−ms−δBs dls], which implies Vx(r, x; b) = e−rF0(x; b), Vxx(r, x; b) = e
 −rF 00(x; b), Vr(r, x; b) = −e −rF(x; b). Substituting e−rF(x; b) into (2.5), we can obtain that F(x; b) satisfies the following equation
 (−m +δ 2 2− λ)F(x; b) + cF0(x; b) + λZ x0 F(x − y; b)βe−βydy = 0, 0 < x < b, (2.8)
 (−m +δ22− λ)F(x; b) + cF0 (x; b) + λ Z x 0F(x − y; b)βe−βydy + M − MF0
 (x; b) = 0, x > b.(2.9)
+
 Combining (2.3), (2.5) and V (r, x; b) = e −rF(x; b), we can see that if the optimal strategy is the threshold strategy with b∗ > 0, we must have F 0 (x; b ∗ ) > 1, for x < b∗ , (2.10)
 F 0 (x; b ∗ ) < 1, for x > b∗. (2.11)
+
 Following the similar way of Gerber and Shiu [11] in 2006, we can obtain the explicit expression of F(x; b). Equation (2.8) can be rewritten as cF00(x; b) + (βc − λ − (m − 1 2 δ 2 ))F 0 (x; b) − β(m −1
 2δ2)F(x; b) = 0, (2.12)
 with a general solution of the form F(x; b) = C0e rx + C1e sx, (2.13)
@@ -112,6 +115,7 @@ F(x; b) = M m − 1 2 δ 2 + Deux, x > b, (2.17)
 where u is the negative solution of
 (c − M)ξ 2 + [β(c − M) − λ − (m − 1 2 δ 2 )]ξ − β(m − 1 2  δ 2 ) = 0.
 Here we can notice F(b; b) = M m − δ 2 2 + Deub . (2.18)
+
 By the continuity of function, F(b−; b) = F(b+; b), we have γ[(r + β)e
 rb − (s + β)e sb] = M m − 1  δ 2 + Deub . (2.19)
 We substitute (2.15) and (2.17) into (2.9), set the coefficient e
