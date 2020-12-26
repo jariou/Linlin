@@ -31,7 +31,7 @@ We recall that the notion of viscosity solutions was introduced by Crandall and 
 ## Geometric Brownian motion as a discounting factor
 
 ### Problem Formulation
-Consider an insurance company whose surplus is given by a compound poisson process with a constant premium rate. The insurance company is allowed to pay out dividends, where the accumulated dividends until $t$ are given by $L_t$. The surplus at time t is described as:
+Consider an insurance company whose surplus is given by a compound poisson process with a constant premium rate. The insurance company is allowed to pay out dividends, where the accumulated dividends until $t$ are given by $L_t$. The surplus at time $t$ is described as:
 $$
 X^{La} = x + ct - \sum ^{N(t)}_{i=k} Y_k - L_t,
 $$
