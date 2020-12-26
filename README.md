@@ -36,7 +36,7 @@ $$
 X^L = x + ct - \sum ^{N(t)}_{i=k} Y_k - L_t,
 $$
 where $x \ge 0$ is the initial surplus, the constant $c \gt 0$ is the premium rate, $N(t)$ is the poisson process representing the frequency of the incoming claims, whereas 
-$\eft{Y_i\right} _{ i=1}^ \infty$ is a sequence of random variables representing size of the incoming claims. We assume that Yi are independent, identically distributed (i.i.d.) with a common exponential intensity function $p(y) = βe^{-βy}$, where $β$ is a positive constant. Let $r_t = r + mt + δB_t$, where $m$ and $δ$ are two constants and $m > \frac{δ^2}{2}$. $B_t$ is a standard Brownian motion independent of $X^L_t$. As a risk measure, we consider that dividends are discounted by the geometric Brownian motion 
+$\left{Y_i\right} _{ i=1}^ \infty$ is a sequence of random variables representing size of the incoming claims. We assume that Yi are independent, identically distributed (i.i.d.) with a common exponential intensity function $p(y) = βe^{-βy}$, where $β$ is a positive constant. Let $r_t = r + mt + δB_t$, where $m$ and $δ$ are two constants and $m > \frac{δ^2}{2}$. $B_t$ is a standard Brownian motion independent of $X^L_t$. As a risk measure, we consider that dividends are discounted by the geometric Brownian motion 
 
 $$
 exp\{-r - mt - δBt\}.
