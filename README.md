@@ -1,6 +1,6 @@
 [[_TOC_]]
 
-# Optimal Divid of The Compound Poisson Process under a Stochastic Interest Rate 2
+# Optimal Divid of The Compound Poisson Process under a Stochastic Interest Rate 2atsjdg;
 
  Linlin Tiana† Lihua Baib‡ Junyi Guoc
 
