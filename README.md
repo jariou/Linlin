@@ -37,7 +37,7 @@ X^L = x + ct
 $$
 and
 $$
-- \sum ^{N(t)}_{i=k} Y_k - L_t,
+- \sum^{N(t)}_{i=k} Y_k - L_t,
 $$
 where $x \ge 0$ is the initial surplus, the constant $c \gt 0$ is the premium rate, $N(t)$ is the poisson process representing the frequency of the incoming claims, whereas 
 $\left{ Y_i \right}_{ i = 1 }^\infty$ 
